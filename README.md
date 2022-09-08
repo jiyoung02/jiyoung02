@@ -11,6 +11,8 @@
 <p align = "center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white%22/%3E&nbsp">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white%22/%3E&nbsp">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+                                                                                                             
 </p>
 <p align="center"> Used at least once</p>
   <p align ="center">
