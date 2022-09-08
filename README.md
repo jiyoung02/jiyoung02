@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src ="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=360&section=header&text=Welcome!&desc=iwasdobby%27s%20Github%20Profile&fontSize=90"/>
+  <img src ="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=360&section=header&text=Welcome!&desc=jiyonug02%27s%20Github%20Profile&fontSize=90"/>
 </h1>
 <p align="center"><br>
   집에가고싶다...
@@ -20,8 +20,8 @@
 <br>
 <div align = center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdldy132)](https://solved.ac/boj=gkdldy132) <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwasdobby&show_icons=true&theme=default_repocard)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ju0808lie)](https://solved.ac/boj=ju0808lie) <br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoung02&show_icons=true&theme=default_repocard)
 
   
 </div>
