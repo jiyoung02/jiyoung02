@@ -3,7 +3,7 @@
 </h1>
 <h3 align="left">Skills</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlino&logoColor=white"/>&nbsp;
 
